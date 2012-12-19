@@ -3,7 +3,7 @@
 In the first chapter we want to create arrays of arrays.
 Because slices and arrays are handled very similarly, slices are handled here as well.
 
-Please note that a complete source code file is available at the same locaiton where you found this markdown page.
+Please note that a complete source code file is available at the same location where you found this markdown page.
 
 ## Create ##
 
